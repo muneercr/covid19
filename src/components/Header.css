@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navLink{
+    color: white;
+    margin: 10px;
+    text-decoration: none;
+}.indiaFlag{
+    height: 50px;
+    margin: 10px;
+}.Card{
+    text-align: center;
+    color: white;
+    
+}.search{
+    align-items: flex-end;
+    
+    text-align: end;
+    background-color: aqua;
+}
